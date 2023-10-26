@@ -28,3 +28,5 @@ const pajaro = new animal("Pajaro",2,"Verde")
 perro.verInfo();
 gato.verInfo();
 pajaro.verInfo();
+
+console.log("Hello world");
